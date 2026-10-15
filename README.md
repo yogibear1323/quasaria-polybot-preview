@@ -1,6 +1,7 @@
 # Quasaria PolyBot: browser preview (demo data)
 
-Live preview: https://yogibear1323.github.io/quasaria-polybot-preview/
+- Landing page: https://yogibear1323.github.io/quasaria-polybot-preview/
+- Portal (browser preview, demo data): https://yogibear1323.github.io/quasaria-polybot-preview/app/
 
 A clickable, static, **renderer-only** preview of a Quasaria-themed build of
 [Krypt PolyBot](https://github.com/kryptccgit/KryPolybot) (MIT, upstream commit `6f742931a7356f83183c876349b2152c82d32d68`).
@@ -11,5 +12,5 @@ A clickable, static, **renderer-only** preview of a Quasaria-themed build of
 - Two themes, selectable in **Settings > Theme**: Quasaria (default) and Yeti.
 - Personal preview. Not for resale or rebranding.
 
-This repository contains only the built static site. It includes the upstream MIT `LICENSE` (Copyright (c) 2026 Krypt)
+This repository contains only the built static sites (`/` landing page, `/app/` preview portal, `/site/` landing assets). It includes the upstream MIT `LICENSE` (Copyright (c) 2026 Krypt)
 and `DISCLAIMER.md`; see `CREDITS.md` for third-party notices (fonts under SIL OFL, music by Kevin MacLeod under CC BY 4.0).
